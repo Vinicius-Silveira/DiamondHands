@@ -7,9 +7,9 @@ Welcome to the official repository for **Diamond Hands**, a premium eToken built
 
 ### 💎 "Diamond Hands $XEC" 
 
-**The Philosophy**: Here the focus is on the immense pressure and time needed to forge true value. It’s the maximalism of geological force and market endurance.
+**The Philosophy:** Here the focus is on the immense pressure and time needed to forge true value. It’s the maximalism of geological force and market endurance.
 
-**The Concept**: A token that looks like it has been compressed by the weight of a thousand bear markets until it became indestructible.
+**The Concept:** A token that looks like it has been compressed by the weight of a thousand bear markets until it became indestructible.
 
 **Aesthetics**
 * **Sharp geometric facets** reflecting total market resilience.
@@ -34,7 +34,7 @@ Diamond Hands utilizes the **ALP (Address Layer Protocol)** on eCash for lightni
 Launch and distribution to the "True Believers." Focus on building a community that values long-term network growth over hype.
 
 ### 2. Refractive Growth
-Integrating $CARAT$ into the eCash ecosystem via Cashtab airdrops.
+Integrating CARAT into the eCash ecosystem via Cashtab airdrops.
 
 ### 3. The Eternal Hold
 Establishing the token as the symbolic "Hard Money" social layer of the eCash network.
@@ -42,8 +42,11 @@ Establishing the token as the symbolic "Hard Money" social layer of the eCash ne
 ## 💎 How to Acquire
 1.  **Get a Wallet:** Download the official wallet [Cashtab](https://cashtab.com/)
 2.  **Add $XEC:** Ensure you have enough eCash for network fees.
+3.  **Earn from airdrops or buy CARAT:** https://cashtab.com/#/token/c9c6d480344596652688a58fbf4df83d0ab46c4f6ac8bbcdd18eacb9d9726141
 
 ## 🤝 Community & Support
 If you have "Paper Hands," this isn't for you. If you have resolve, join us:
 
-* **Official Website:** https://vinicius-silveira.github.io/DiamondHands/
+* **Official eCash Website:** https://e.cash
+* **Official CARAT GitHut repository:** https://vinicius-silveira.github.io/DiamondHands/
+* **My Website:** https://x.com/vinisilveira016 and https://github.com/Vinicius-Silveira
