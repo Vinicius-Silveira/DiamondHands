@@ -41,12 +41,12 @@ Establishing the token as the symbolic "Hard Money" social layer of the eCash ne
 
 ## 💎 How to Acquire
 1.  **Get a Wallet:** Download the official wallet [Cashtab](https://cashtab.com/)
-2.  **Add $XEC:** Ensure you have enough eCash for network fees.
-3.  **Earn from airdrops or buy CARAT:** https://cashtab.com/#/token/c9c6d480344596652688a58fbf4df83d0ab46c4f6ac8bbcdd18eacb9d9726141
+2.  **Earn from airdrops or buy CARAT:** https://cashtab.com/#/token/c9c6d480344596652688a58fbf4df83d0ab46c4f6ac8bbcdd18eacb9d9726141
 
 ## 🤝 Community & Support
 If you have "Paper Hands," this isn't for you. If you have resolve, join us:
 
 * **Official eCash Website:** https://e.cash
+* **Official Cashtab wallet:** https://cashtab.com
 * **Official CARAT GitHut repository:** https://vinicius-silveira.github.io/DiamondHands/
 * **My Website:** https://x.com/vinisilveira016 and https://github.com/Vinicius-Silveira
