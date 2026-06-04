@@ -1,4 +1,4 @@
-<img src="logo.png" width="200">
+<img src="logo.png" width="300">
 # 💎 Diamond Hands (CARAT)
 
 **"Forged under pressure. Held with resolve."**
@@ -17,7 +17,7 @@ Welcome to the official repository for **Diamond Hands**, a premium eToken built
 * **A faint, ethereal white glow** emanating from the center, symbolizing life and value.
 
 ## 🛠 Technical Specifications
-Diamond Hands utilizes the **ALP (Address Layer Protocol)** on eCash for lightning-fast transactions and minimal fees.
+Diamond Hands utilizes the **ALP (Augmented Layer Protocol)** on eCash for lightning-fast transactions and minimal fees.
 
 | Feature | Detail |
 | :--- | :--- |
